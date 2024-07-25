@@ -8903,7 +8903,7 @@ aqF(){var s=0,r=A.T(t.z),q,p
 var $async$aqF=A.U(function(a,b){if(a===1)return A.Q(b,r)
 while(true)switch(s){case 0:if($.a4L==null)$.a4L=new A.Jx()
 s=2
-return A.Y($.arr().yy(0,".env"),$async$aqF)
+return A.Y($.arr().yy(0,"assets/.env"),$async$aqF)
 case 2:if($.ar==null)A.azH()
 q=$.ar
 q.toString
